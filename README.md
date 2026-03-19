@@ -27,7 +27,7 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 * **The Impact:** A high-level audit of financial controls, regulatory compliance (R.A. 7160), and operational risk management.
 * **Key Skill:** Gap Analysis and the ability to translate complex legal/financial standards into actionable organizational policies.
 ---  
-### 📝 [Research: Management Information Systems](./.pdf)
+### 📝 [Research: Management Information Systems](./MIS_Article.pdf)
 * **The Insight:** Analyzed the emergence of marketing analytics and the necessity of aligning academic requirements with industry digital demands.
 * **Key Skill:** Academic research, data privacy advocacy, and curriculum-industry mapping.
 ---
