@@ -30,7 +30,6 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 ### 📝 [Research: Management Information Systems](./.pdf)
 * **The Insight:** Analyzed the emergence of marketing analytics and the necessity of aligning academic requirements with industry digital demands.
 * **Key Skill:** Academic research, data privacy advocacy, and curriculum-industry mapping.
-
 ---
 ## 📬 Let's Connect
 - 🌍  I'm based in Cebu Philippines
