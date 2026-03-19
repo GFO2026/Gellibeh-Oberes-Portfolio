@@ -34,3 +34,17 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 ## 📬 Let's Connect
 - 🌍  I'm based in Cebu Philippines
 - 📧 [gellibehoberes@gmail.com](mailto:your-email@example.com)
+  ---
+## 🧠 Instructional Approach
+My work is guided by **learner-centered design principles**, incorporating elements of established frameworks to support learner motivation and engagement. 
+
+- [cite_start]**Andragogy & Active Learning:** Designing for adult learners by focusing on immediate application and problem-solving[cite: 13, 19, 23].
+- [cite_start]**Multi-Channel Systems:** Utilizing a planned configuration of various media to create synergy and optimize learning outcomes[cite: 19, 20].
+- [cite_start]**Outcome-Based Education (OBE):** Aligning academic and training requirements with the precision and digital demands of the modern industry[cite: 4, 14, 16].
+
+## ⚙️ Tools & Technologies
+`Google Workspace` • `Microsoft Office` • `Learning Management Systems (LMS)` • `Asana` • `Loom` • `AI Tools (ChatGPT/Gemini)`
+---
+> [!IMPORTANT]
+> **📌 Note:** All materials in this portfolio are original or recreated samples designed to demonstrate my skills while maintaining the confidentiality of previous employers.
+---
