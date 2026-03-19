@@ -14,7 +14,7 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 ## 📁 Portfolio & Instructional Design
 *Strategically developed frameworks for operational leadership and adult learning.*
 
-### 📄 [**Designer Notes & Instructional Philosophy**](./Gellibeh_Oberes_Designer_Notes_.pdf)
+### 📄 [**Designer Notes & Instructional Philosophy**](./Gellibeh_Oberes_Designer_Notes1.pdf)
 > **The Strategy:** This document serves as the "Pedagogical Blueprint" for my work. It bridges the gap between raw information and effective knowledge transfer, focusing on **Andragogy** (Adult Learning) and the "Why" behind curriculum structure.
 > * **Key Focus:** Learning Scaffolding, Outcome-Based Education (OBE), and Instructional Intent.
 
