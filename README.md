@@ -11,6 +11,12 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 - 👩‍🏫 **Licensed Professional Teacher (LPT)** with a focus on Adult Learning (Andragogy).
 - 💻 Currently transitioning to **Remote Leadership** and **Content Specialization**.
 ---
+## 📁 Portfolio & Instructional Design
+*Strategically developed frameworks for operational leadership and adult learning.*
+
+### 📄 [**Designer Notes & Instructional Philosophy**](./Gellibeh_Oberes_Designer_Notes_.pdf)
+> **The Strategy:** This document serves as the "Pedagogical Blueprint" for my work. It bridges the gap between raw information and effective knowledge transfer, focusing on **Andragogy** (Adult Learning) and the "Why" behind curriculum structure.
+> * **Key Focus:** Learning Scaffolding, Outcome-Based Education (OBE), and Instructional Intent.
 
 ## 🛠️ Signature Projects (Portfolios)
 
@@ -26,10 +32,16 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 ### ⚖️ [**Organizational Analysis: Industry Controllership**](./Organizational_Analysis.pdf)
 * **The Impact:** A high-level audit of financial controls, regulatory compliance (R.A. 7160), and operational risk management.
 * **Key Skill:** Gap Analysis and the ability to translate complex legal/financial standards into actionable organizational policies.
+### 👥 [**Leadership Development & Behavioral Coaching**](./Leadership_Development_Framework.pdf)
+> **The Strategy:** Designed to transform abstract leadership concepts into actionable interpersonal habits. This deck utilizes the **LOVE Model** (Listening, Opportunity, Value, Education) and integrates **Maslow’s Hierarchy** to ground motivation in behavioral science.
 ---  
 ### 📝 [Research: Management Information Systems](./MIS_Article.pdf)
 * **The Insight:** Analyzed the emergence of marketing analytics and the necessity of aligning academic requirements with industry digital demands.
 * **Key Skill:** Academic research, data privacy advocacy, and curriculum-industry mapping.
+---
+### 💻 [**Business Technology: Comprehensive Assessment**](./Business_Technology_Assessment.pdf)
+> **The Strategy:** A validation tool designed to measure both technical literacy and critical synthesis. It utilizes a dual-layered approach: Objective testing for e-commerce fundamentals and a Case-Study Essay for high-level policy recommendation.
+> * **Key Focus:** Bloom’s Taxonomy (from Recall to Synthesis), Digital Literacy, and UX Design Patterns.
 ---
 ## 📬 Let's Connect
 - 🌍  I'm based in Cebu Philippines
