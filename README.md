@@ -1,4 +1,4 @@
-# Hi, 👋 I'm Gellibeh Oberes, LPT, MBA 👋
+# Hi, 👋 I'm Gellibeh Oberes, LPT, MBA 
 
 ### Operations Leader | Curriculum Designer | EdTech Specialist | MBA | Licensed Professional Teacher
 *Bridging the gap between high-level business strategy and instructional excellence.*
@@ -32,7 +32,8 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 ### ⚖️ [**Organizational Analysis: Industry Controllership**](./Organizational_Analysis.pdf)
 * **The Impact:** A high-level audit of financial controls, regulatory compliance (R.A. 7160), and operational risk management.
 * **Key Skill:** Gap Analysis and the ability to translate complex legal/financial standards into actionable organizational policies.
-### 👥 [**Leadership Development & Behavioral Coaching**](./Leadership_Development_Framework.pdf)
+---  
+### 👥 [**Leadership Development & Behavioral Coaching**](./Leadership_Development.pdf)
 > **The Strategy:** Designed to transform abstract leadership concepts into actionable interpersonal habits. This deck utilizes the **LOVE Model** (Listening, Opportunity, Value, Education) and integrates **Maslow’s Hierarchy** to ground motivation in behavioral science.
 ---  
 ### 📝 [Research: Management Information Systems](./MIS_Article.pdf)
