@@ -14,7 +14,7 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 
 ## 🛠️ Signature Projects (Portfolios)
 
-### 📈 [Operational Excellence & Cost Management](./Retail_Business_Study_and_Strategy.pdf).
+### 📈 [Operational Excellence & Cost Management](./Retail_Business_Study_and_Strategy.pdf) (As a Lead Strategist)
 * **Impact:** Achieved a **25% reduction** in stationery overhead across 70 branches.
 * **Project:**💳 Intelligent Payment & UX EngagementPiloted a bifurcated service model to solve a 70% cash-transaction bottleneck. 
 * **Key Skills:** Scalable SOP design and remote team coordination & humanizing automation and increasing loyalty program usage by 3% annually.
