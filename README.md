@@ -18,6 +18,21 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 > **The Strategy:** This document serves as the "Pedagogical Blueprint" for my work. It bridges the gap between raw information and effective knowledge transfer, focusing on **Andragogy** (Adult Learning) and the "Why" behind curriculum structure.
 > * **Key Focus:** Learning Scaffolding, Outcome-Based Education (OBE), and Instructional Intent.
 
+## 🤖 Generative AI & Digital Innovation
+*Leveraging cutting-edge AI frameworks to optimize instructional design and operational efficiency.*
+
+### **Certification: Career Essentials in Generative AI**
+*Issued by **Microsoft and LinkedIn** (2026)*
+
+* **Prompt Engineering:** Expert in crafting complex, multi-stage prompts to generate structured educational content and assessment tools.
+* **AI Strategy:** Specialized in identifying "AI-Plus" opportunities—where AI automates repetitive tasks so human leaders can focus on high-level strategy.
+* **Ethics & Literacy:** Deeply committed to the ethical application of AI, ensuring data privacy and academic integrity in all generated outputs.
+
+### **Current AI Applications & Research**
+* 🧪 **Content Prototyping:** Utilizing LLMs to rapidly draft lesson outlines and modular learning objectives.
+* 📊 **Operational Logic:** Applying AI to analyze complex data sets (like the 25% cost-saving model) for deeper pattern recognition.
+* 📚 **Ongoing Studies:** Currently advancing my knowledge in AI-driven Curriculum Mapping and Personalized Learning Paths.
+
 ## 🛠️ Signature Projects (Portfolios)
 
 ### 📈 [Operational Excellence & Cost Management](./Retail_Business_Study_and_Strategy.pdf) (As a Lead Strategist)
