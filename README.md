@@ -7,9 +7,9 @@
 ## 🚀 About Me
 I am a seasoned professional with over 14 years of experience in **Retail Operations**, **Customer Experience**, and **Learning & Development**. My career is defined by scaling efficient systems—like reducing overhead by 25% across 70 branches—and designing high-impact adult learning programs.
 
-- 🎓 **MBA** from the University of the Philippines.
-- 👩‍🏫 **Licensed Professional Teacher (LPT)** with a focus on Adult Learning (Andragogy).
-- 💻 Currently transitioning to **Remote Leadership** and **Content Specialization**.
+🎓 **MBA** from the University of the Philippines.
+👩‍🏫 **Licensed Professional Teacher (LPT)** with a focus on Adult Learning (Andragogy).
+💻 Currently transitioning to **Remote Leadership** and **Content Specialization**.
 ---
 ## 📁 Portfolio & Instructional Design
 *Strategically developed frameworks for operational leadership and adult learning.*
@@ -35,7 +35,7 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 
 ## 🛠️ Signature Projects (Portfolios)
 
-### 📈 [Operational Excellence & Cost Management](./Retail_Business_Study_and_Strategy.pdf) (As a Lead Strategist)
+### 📈 [Operational Excellence & Cost Management](./Retail_Business_Study_and_Strategy.pdf) (As Lead Strategist)
 * **Impact:** Achieved a **25% reduction** in stationery overhead across 70 branches.
 * **Project:**💳 Intelligent Payment & UX EngagementPiloted a bifurcated service model to solve a 70% cash-transaction bottleneck. 
 * **Key Skills:** Scalable SOP design and remote team coordination & humanizing automation and increasing loyalty program usage by 3% annually.
