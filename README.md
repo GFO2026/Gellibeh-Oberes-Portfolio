@@ -58,7 +58,7 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 > **The Strategy:** A validation tool designed to measure both technical literacy and critical synthesis. It utilizes a dual-layered approach: Objective testing for e-commerce fundamentals and a Case-Study Essay for high-level policy recommendation.
 > * **Key Focus:** Bloom’s Taxonomy (from Recall to Synthesis), Digital Literacy, and UX Design Patterns.
 ---
-### 🔄 [**Instructional Design: Feedback & Iteration Workflow**](./Course_Feedback_Consolidation.pdf)
+### 🔄 [**Instructional Design: Feedback & Iteration Workflow**](./Course_Feedback_Consolidation1.pdf)
 > **The Strategy:** A professional framework for closing the "Learning Loop." This document showcases my process for analyzing LMS dashboard data and staff feedback to drive iterative content improvements.
 * **Key Focus:** Data-driven QA, Behavioral Gap Analysis, and Curriculum Refinement.
 ---
