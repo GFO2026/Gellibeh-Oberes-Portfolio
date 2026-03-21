@@ -11,16 +11,16 @@ I bridge the gap between traditional learning science and modern digital automat
 | 🧠 Learning Science | 🤖 AI Integration | ⚙️ Operational Excellence |
 | :--- | :--- | :--- |
 | **Evidence-Based Strategies** | **Structured Prompting** | **Cross-Functional Leadership** |
-| Applying learning science and adult learning principles to digital environments[cite: 5, 10, 24]. | Utilizing ChatGPT and automation to streamline content development workflows. | Managing distributed teams and coordinating complex project timelines|
+| Applying learning science and adult learning principles to digital environments. | Utilizing ChatGPT and automation to streamline content development workflows. | Managing distributed teams and coordinating complex project timelines|
 | **Curriculum Design** | **Quality Assurance** | **Process Optimization** |
 | Designing learner-centered materials and research-driven assessments.|Ensuring accuracy and consistency in AI-generated outputs through validation. | Implementing scalable SOPs and data-driven monitoring systems. |
 
 ---
 
 ### 🛠️ Technical Toolkit
-* [cite_start]**Content:** Instructional Design, Curriculum Mapping, Test Prep Development[cite: 10, 11, 17].
-* [cite_start]**AI & Tech:** ChatGPT, Automation Tools, LMS Platforms, Google Workspace[cite: 13, 19, 70, 71].
-* [cite_start]**Leadership:** Strategic Planning (MBA), Stakeholder Management, Mentorship[cite: 18, 36, 62].
+* **Content:** Instructional Design, Curriculum Mapping, Test Prep Development.
+* **AI & Tech:** ChatGPT, Automation Tools, LMS Platforms, Google Workspace.
+* **Leadership:** Strategic Planning (MBA), Stakeholder Management, Mentorship.
 ---
 ## 📁 Portfolio & Instructional Design
 *Strategically developed frameworks for operational leadership and adult learning.*
