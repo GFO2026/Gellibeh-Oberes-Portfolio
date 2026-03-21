@@ -43,6 +43,11 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 * **The Impact:** This is an example of a foundational learning module. It includes clear learning objectives, identification of tools, process applications, and an assessment (preparing a cake). This structure provides a clear, step-by-step educational content.
 * **Key Skill:** Outcome-Based Education (OBE) and active learning strategies.
 ---
+### 🍎 [Instructional Design & Technical Literacy](./Computer_Literacy_Module.pdf)
+* [cite_start]**The Project:** A comprehensive 3-hour module for a Computer Literacy Program focusing on Microsoft Word and input/output hardware[cite: 270, 280, 380, 384].
+* [cite_start]**Instructional Strategy:** Utilizes Bloom's Taxonomy-aligned objectives (Identify, Describe, Select, Apply) and varied assessment methods including hands-on software practice and situational writing[cite: 272, 403, 416, 420].
+* [cite_start]**Key Skill:** Scaffolding complex information (keyboarding) into digestible, objective-based lessons[cite: 294, 352].
+---  
 ### ⚖️ [**Organizational Analysis: Industry Controllership**](./Organizational_Analysis.pdf)
 * **The Impact:** A high-level audit of financial controls, regulatory compliance (R.A. 7160), and operational risk management.
 * **Key Skill:** Gap Analysis and the ability to translate complex legal/financial standards into actionable organizational policies.
