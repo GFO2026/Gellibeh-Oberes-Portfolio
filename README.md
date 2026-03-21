@@ -11,9 +11,9 @@ I bridge the gap between traditional learning science and modern digital automat
 | 🧠 Learning Science | 🤖 AI Integration | ⚙️ Operational Excellence |
 | :--- | :--- | :--- |
 | **Evidence-Based Strategies** | **Structured Prompting** | **Cross-Functional Leadership** |
-| [cite_start]Applying learning science and adult learning principles to digital environments[cite: 5, 10, 24]. | [cite_start]Utilizing ChatGPT and automation to streamline content development workflows[cite: 13, 57, 59]. | [cite_start]Managing distributed teams and coordinating complex project timelines[cite: 8, 48, 51]. |
+| Applying learning science and adult learning principles to digital environments[cite: 5, 10, 24]. | Utilizing ChatGPT and automation to streamline content development workflows. | Managing distributed teams and coordinating complex project timelines|
 | **Curriculum Design** | **Quality Assurance** | **Process Optimization** |
-| [cite_start]Designing learner-centered materials and research-driven assessments[cite: 6, 7, 33]. | [cite_start]Ensuring accuracy and consistency in AI-generated outputs through validation[cite: 12, 58, 60]. | [cite_start]Implementing scalable SOPs and data-driven monitoring systems[cite: 14, 50, 51]. |
+| Designing learner-centered materials and research-driven assessments.|Ensuring accuracy and consistency in AI-generated outputs through validation. | Implementing scalable SOPs and data-driven monitoring systems. |
 
 ---
 
