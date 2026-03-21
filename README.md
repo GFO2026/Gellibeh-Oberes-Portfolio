@@ -1,14 +1,26 @@
 # Hi, 👋 I'm Gellibeh Oberes, LPT, MBA 
 
-### Operations Leader | Curriculum Designer | EdTech Specialist | MBA | Licensed Professional Teacher
+### Instructional Design & Content Operations Leader | MBA, LPT | AI-Powered Learning Specialist
 *Bridging the gap between high-level business strategy and instructional excellence.*
 ---
 ## 🚀 About Me
-I am a seasoned professional with over 14 years of experience in **Retail Operations**, **Customer Experience**, and **Learning & Development**. My career is defined by scaling efficient systems—like reducing overhead by 25% across 70 branches—and designing high-impact adult learning programs.
+I bridge the gap between traditional learning science and modern digital automation.I havve over 10 years of experience in curriculum development and academic instruction. I specialize in creating high-impact, learner-centered content that is scalable. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.
 
-🎓 **MBA** from the University of the Philippines.
-👩‍🏫 **Licensed Professional Teacher (LPT)** with a focus on Adult Learning (Andragogy).
-💻 Currently transitioning to **Remote Leadership** and **Content Specialization**.
+## 🚀 Key Expertise
+---
+| 🧠 Learning Science | 🤖 AI Integration | ⚙️ Operational Excellence |
+| :--- | :--- | :--- |
+| **Evidence-Based Strategies** | **Structured Prompting** | **Cross-Functional Leadership** |
+| [cite_start]Applying learning science and adult learning principles to digital environments[cite: 5, 10, 24]. | [cite_start]Utilizing ChatGPT and automation to streamline content development workflows[cite: 13, 57, 59]. | [cite_start]Managing distributed teams and coordinating complex project timelines[cite: 8, 48, 51]. |
+| **Curriculum Design** | **Quality Assurance** | **Process Optimization** |
+| [cite_start]Designing learner-centered materials and research-driven assessments[cite: 6, 7, 33]. | [cite_start]Ensuring accuracy and consistency in AI-generated outputs through validation[cite: 12, 58, 60]. | [cite_start]Implementing scalable SOPs and data-driven monitoring systems[cite: 14, 50, 51]. |
+
+---
+
+### 🛠️ Technical Toolkit
+* [cite_start]**Content:** Instructional Design, Curriculum Mapping, Test Prep Development[cite: 10, 11, 17].
+* [cite_start]**AI & Tech:** ChatGPT, Automation Tools, LMS Platforms, Google Workspace[cite: 13, 19, 70, 71].
+* [cite_start]**Leadership:** Strategic Planning (MBA), Stakeholder Management, Mentorship[cite: 18, 36, 62].
 ---
 ## 📁 Portfolio & Instructional Design
 *Strategically developed frameworks for operational leadership and adult learning.*
@@ -36,7 +48,7 @@ I am a seasoned professional with over 14 years of experience in **Retail Operat
 
 ### 📈 [Operational Excellence & Cost Management](./Retail_Business_Study_and_Strategy.pdf) (As Lead Strategist)
 * **Impact:** Achieved a **25% reduction** in stationery overhead across 70 branches.
-* **Project:** 💳 Intelligent Payment & UX EngagementPiloted a bifurcated service model to solve a 70% cash-transaction bottleneck. 
+* **Project:** Piloted and scaled the implementation of 💳 Intelligent Payment & UX Engagement as the first automatio project service model to solve a 70% cash-transaction bottleneck. 
 * **Key Skills:** Scalable SOP design and remote team coordination & humanizing automation and increasing loyalty program usage by 3% annually.
 
 ### 🍎 [Instructional Design & Adult Learning](./Baking_Fundamentals_Training.pdf)
