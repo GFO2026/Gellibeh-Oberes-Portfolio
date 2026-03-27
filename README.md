@@ -96,7 +96,7 @@ My work is guided by **learner-centered design principles**, incorporating eleme
 - **Outcome-Based Education (OBE):** Aligning academic and training requirements with the precision and digital demands of the modern industry
 
 ## ⚙️ Tools & Technologies
-`Google Workspace` • `Microsoft Office` • `Learning Management Systems (LMS)` • `Asana` • `Loom` • `AI Tools (ChatGPT/Gemini)`
+`Google Workspace` • `Microsoft Office` • `Learning Management Systems (LMS)` • `Asana` • `Loom` • `Canva`• `AI Tools (ChatGPT/Gemini)`
 ---
 > [!IMPORTANT]
 > **📌 Note:** All materials in this portfolio are original or recreated samples designed to demonstrate my skills while maintaining the confidentiality of previous employers.
