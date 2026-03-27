@@ -1,10 +1,16 @@
 # Hi, 👋 I'm Gellibeh Oberes, LPT, MBA 
 
-### Instructional Design & Content Operations Leader | MBA, LPT | AI-Powered Learning Specialist
+### *Senior Operations Leader | Licensed Professional Teacher | Instructional Designer| AI-Powered Learning Specialist
 *Bridging the gap between high-level business strategy and instructional excellence.*
 ---
 ## 🚀 About Me
-I bridge the gap between traditional learning science and modern digital automation.I havve over 10 years of experience in curriculum development and academic instruction. I specialize in creating high-impact, learner-centered content that is scalable. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.
+I bridge the gap between traditional learning science and modern digital automation.I have over 14 years of experience at the intersection of **Business Operations** and **Education**, I specialize in building structured systems that drive growth. My background as a Master of Business Administration (MBA) and a Licensed Professional Teacher (LPT) allows me to approach course building with both pedagogical rigor and a results-oriented business mindset. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.With 
+
+### Why Work With Me?
+* **Operational Excellence:** I don't just organize content; I build scalable systems. My experience managing large-scale retail operations means I understand the importance of clear workflows and student "user experience."
+* **Educational Authority:** As a licensed educator, I ensure every lesson follows a logical learning flow, from onboarding to final mastery.
+* **Tech-Forward Approach:** From GitHub documentation to LMS platform setup, I bridge the gap between creative ideas and technical implementation.
+---
 
 ## 🚀 Key Expertise
 ---
@@ -13,8 +19,7 @@ I bridge the gap between traditional learning science and modern digital automat
 | **Evidence-Based Strategies** | **Structured Prompting** | **Cross-Functional Leadership** |
 | Applying learning science and adult learning principles to digital environments. | Utilizing ChatGPT and automation to streamline content development workflows. | Managing distributed teams and coordinating complex project timelines|
 | **Curriculum Design** | **Quality Assurance** | **Process Optimization** |
-| Designing learner-centered materials and research-driven assessments.|Ensuring accuracy and consistency in AI-generated outputs through validation. | Implementing scalable SOPs and data-driven monitoring systems. |
-
+| Designing learner-centered materials and research-driven assessments.|Ensuring accuracy and consistency in AI-generated outputs through validation. | Implementing scalable SOPs and data-driven monitoring systems.
 ---
 
 ### 🛠️ Technical Toolkit
