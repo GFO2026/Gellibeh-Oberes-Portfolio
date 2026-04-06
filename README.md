@@ -1,31 +1,62 @@
 # Hi, 👋 I'm Gellibeh Oberes, LPT, MBA 
+# Gellibeh Oberes, LPT, MBA
+### *Bridging Operational Excellence and Human-Centered Instructional Design*
 
-### *Senior Operations Leader | Licensed Professional Teacher | Instructional Designer| AI-Powered Learning Specialist
-*Bridging the gap between high-level business strategy and instructional excellence.*
----
-## 🚀 About Me
-I bridge the gap between traditional learning science and modern digital automation.I have over 14 years of experience at the intersection of **Business Operations** and **Education**, I specialize in building structured systems that drive growth. My background as a Master of Business Administration (MBA) and a Licensed Professional Teacher (LPT) allows me to approach course building with both pedagogical rigor and a results-oriented business mindset. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.With 
-
-### Why Work With Me?
-* **Operational Excellence:** I don't just organize content; I build scalable systems. My experience managing large-scale retail operations means I understand the importance of clear workflows and student "user experience."
-* **Educational Authority:** As a licensed educator, I ensure every lesson follows a logical learning flow, from onboarding to final mastery.
-* **Tech-Forward Approach:** From GitHub documentation to LMS platform setup, I bridge the gap between creative ideas and technical implementation.
 ---
 
-## 🚀 Key Expertise
----
-| 🧠 Learning Science | 🤖 AI Integration | ⚙️ Operational Excellence |
-| :--- | :--- | :--- |
-| **Evidence-Based Strategies** | **Structured Prompting** | **Cross-Functional Leadership** |
-| Applying learning science and adult learning principles to digital environments. | Utilizing ChatGPT and automation to streamline content development workflows. | Managing distributed teams and coordinating complex project timelines|
-| **Curriculum Design** | **Quality Assurance** | **Process Optimization** |
-| Designing learner-centered materials and research-driven assessments.|Ensuring accuracy and consistency in AI-generated outputs through validation. | Implementing scalable SOPs and data-driven monitoring systems.
+## 💡 Professional Identity
+Strategic and results-driven Senior Leader with over 14 years of experience spanning retail operations, training development, and academic leadership. I specialize in designing high-impact learning experiences that align human-centered design with measurable business outcomes. My background as a Master of Business Administration (MBA) and a Licensed Professional Teacher (LPT) allows me to approach course building with both pedagogical rigor and a results-oriented business mindset. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.With 
+
 ---
 
-### 🛠️ Technical Toolkit
+## 📂 Featured Case Studies (Instructional Design)
+
+### 🚀 Corporate Onboarding Transformation
+* **The Impact:** Reduced employee onboarding time by **40%** through strategic technology integration.
+* **The Solution:** Developed interactive training courses and data-driven monitoring systems to improve productivity and engagement.
+
+### 🛠️ LMS Administration & Continuous Improvement
+* **The Process:** Managed full-cycle system integrity, including content updates and user permissions.
+* **Data-Driven Iteration:** Analyzed course surveys and training effectiveness data (30% increase) to continuously refine and improve learning modules.
+
+### 🎓 National Teacher Training (PEAC)
+* **The Scope:** Developed and delivered regional professional development modules for **600+ teachers** across the Philippines.
+* **Focus:** Instructional excellence and research-based methodologies aligned with national curriculum standards.
+
+---
+
+## 📈 Strategic Operations & Frameworks
+
+### 📑 Standardized Cost-Saving Framework
+* **Scalability:** Engineered a framework that achieved a **25% cost reduction** and successfully implemented it across **70+ branches**.
+* **Standardization:** Developed comprehensive SOPs and compliance documentation to ensure operational consistency.
+
+### ⛈️ Business Continuity & Crisis Management
+* **Resilience:** Led recovery efforts following Typhoon Tino, achieving full operational status for retail locations within a **10-day deadline**.
+* **Execution:** Demonstrated high-level project management and stakeholder communication under extreme pressure.
+
+---
+
+## 🛠️ Technical Toolkit
+
+* **LMS Platforms:** System Administration, Content Publishing, and Data Analytics.
+* **Design & Multimedia:** Articulate Storyline/Rise (Conceptual), Canva, H5P, and Multimedia Production.
+* **Management & Productivity:** **Asana** (Remote Coordination), **GitHub** (Portfolio/Version Control), and MS Office Suite.
+* **Academic Foundations:** Curriculum Development, Syllabi Design, and Competency-Based Assessment.
 * **Content:** Instructional Design, Curriculum Mapping, Test Prep Development.
 * **AI & Tech:** ChatGPT, Automation Tools, LMS Platforms, Google Workspace.
 * **Leadership:** Strategic Planning (MBA), Stakeholder Management, Mentorship.
+
+---
+
+## 📝 Research & Publications
+### 📝 [Research: Management Information Systems](./MIS_Article.pdf)
+* **The Insight:** Analyzed the emergence of marketing analytics and the necessity of aligning academic requirements with industry digital demands.
+* **Key Skill:** Academic research, data privacy advocacy, and curriculum-industry mapping.
+* **MIS Research Article:** Investigating Management Information Systems and their strategic role in organizational performance.
+---
+[📧 Contact Me](mailto:gellibehoberes@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/gellibehoberes)
+
 ---
 ## 📁 Portfolio & Instructional Design
 *Strategically developed frameworks for operational leadership and adult learning.*
@@ -95,8 +126,6 @@ My work is guided by **learner-centered design principles**, incorporating eleme
 - **Multi-Channel Systems:** Utilizing a planned configuration of various media to create synergy and optimize learning outcomes
 - **Outcome-Based Education (OBE):** Aligning academic and training requirements with the precision and digital demands of the modern industry
 
-## ⚙️ Tools & Technologies
-`Google Workspace` • `Microsoft Office` • `Learning Management Systems (LMS)` • `Asana` • `Loom` • `Canva`• `AI Tools (ChatGPT/Gemini)`
 ---
 > [!IMPORTANT]
 > **📌 Note:** All materials in this portfolio are original or recreated samples designed to demonstrate my skills while maintaining the confidentiality of previous employers.
