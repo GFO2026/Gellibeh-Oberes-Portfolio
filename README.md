@@ -10,7 +10,7 @@ Strategic and results-driven Senior Leader with over 14 years of experience span
 
 ## 📂 Featured Case Studies (Instructional Design)
 
-### 📋 [New Hire Onboarding Instructions (Sample Deck)](./Onboarding_Deck_New_Hire_Instructions.pdf)
+### 📋 [New Hire Onboarding Instructions](./Onboarding_Deck_New_Hire_Instructions.pdf)
 * **The Impact:** Reduced employee onboarding time by **40%** through strategic technology integration.
 * **The Solution:** Developed interactive training courses and data-driven monitoring systems to improve productivity and engagement.
 
