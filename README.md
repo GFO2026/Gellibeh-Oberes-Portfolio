@@ -115,10 +115,7 @@ Strategic and results-driven Senior Leader with over 14 years of experience span
 > **The Strategy:** A professional framework for closing the "Learning Loop." This document showcases my process for analyzing LMS dashboard data and staff feedback to drive iterative content improvements.
 * **Key Focus:** Data-driven QA, Behavioral Gap Analysis, and Curriculum Refinement.
 ---
-## 📬 Let's Connect
-- 🌍  I'm based in Cebu Philippines
-- 📧 [gellibehoberes@gmail.com](mailto:your-email@example.com)
-  ---
+---
 ## 🧠 Instructional Approach
 My work is guided by **learner-centered design principles**, incorporating elements of established frameworks to support learner motivation and engagement. 
 
