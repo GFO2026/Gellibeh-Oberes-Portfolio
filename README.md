@@ -1,4 +1,3 @@
-# Hi, 👋 I'm Gellibeh Oberes, LPT, MBA 
 # Gellibeh Oberes, LPT, MBA
 ### *Bridging Operational Excellence and Human-Centered Instructional Design*
 
@@ -11,7 +10,7 @@ Strategic and results-driven Senior Leader with over 14 years of experience span
 
 ## 📂 Featured Case Studies (Instructional Design)
 
-### 🚀 Corporate Onboarding Transformation
+### 📋 [New Hire Onboarding Instructions (Sample Deck)](./assets/Onboarding_Deck_New_Hire_Instructions.pdf)
 * **The Impact:** Reduced employee onboarding time by **40%** through strategic technology integration.
 * **The Solution:** Developed interactive training courses and data-driven monitoring systems to improve productivity and engagement.
 
