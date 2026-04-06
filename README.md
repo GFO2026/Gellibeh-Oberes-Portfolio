@@ -18,7 +18,7 @@ Strategic and results-driven Senior Leader with over 14 years of experience span
 * **The Process:** Managed full-cycle system integrity, including content updates and user permissions.
 * **Data-Driven Iteration:** Analyzed course surveys and training effectiveness data (30% increase) to continuously refine and improve learning modules.
 
-### 🎓 National Teacher Training (PEAC)
+### 🎓 National Teacher Training (Private Education Assistance Committee)
 * **The Scope:** Developed and delivered regional professional development modules for **600+ teachers** across the Philippines.
 * **Focus:** Instructional excellence and research-based methodologies aligned with national curriculum standards.
 
