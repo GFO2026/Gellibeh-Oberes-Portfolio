@@ -27,13 +27,14 @@ The playbook balances **Premium Experience** with **Scalable Operations** to ens
 * **Elite Training:** Equipping shoppers with sales mastery, merchandise knowledge, and visual presentation skills (photography/video).
 
 ### 2. Personalized Value Propositions
-* **Target Segments:** Strategies specifically tailored for nursing mothers, business purchasers, and VIP clients[cite: 10].
-* **Custom Offerings:** Product bundles and personalized styling consultations based on purchasing history[cite: 24, 48].
+* **Target Segments:** Strategies specifically tailored for nursing mothers, business purchasers, and VIP clients.
+* **Custom Offerings:** Product bundles and personalized styling consultations based on purchasing history.
 
 ### 3. Operational Excellence & Loyalty
-* **Incentivized Growth:** Using same-day delivery thresholds and bundled event packages for corporate gifts[cite: 25].
-* **Loyalty Loops:** Leveraging loyalty cards to encourage repeat purchases and organic referrals[cite: 32, 35].
-* **Efficient Logistics:** Balancing elegant packaging with data-driven inventory and delivery monitoring[cite: 47, 54, 55].
+* **Incentivized Growth:** Using same-day delivery thresholds and bundled event packages for corporate gifts.
+* **Loyalty Loops:** Leveraging loyalty cards to encourage repeat purchases and organic referrals.
+* **Efficient Logistics:** Balancing elegant packaging with data-driven inventory and delivery monitoring.
+  
 ## 📈 Strategic Operations & Frameworks
 
 ### 📑 Standardized Cost-Saving Framework
