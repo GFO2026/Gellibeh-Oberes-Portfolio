@@ -6,8 +6,45 @@
 ## 💡 Professional Identity
 Strategic and results-driven Senior Leader with over 14 years of experience spanning retail operations, training development, and academic leadership. I specialize in designing high-impact learning experiences that align human-centered design with measurable business outcomes. My background as a Master of Business Administration (MBA) and a Licensed Professional Teacher (LPT) allows me to approach course building with both pedagogical rigor and a results-oriented business mindset. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.
 
+# 🛍️ Premium Personal Shopper Playbook: VIP & B2B Strategy [Premium Personal Shopper Playbook: VIP & B2B Strategy](./Premium_Personal_Shopper_Playbook.pdf)
+**Focus:** driving growth through standardized engagement and premium brand experiences.
+
+---
+## 📈 Executive Impact
+This playbook outlines the strategic framework used to scale retail operations and maximize high-value customer segments.
+
+* **165% Sales Increase:** Achieved the highest growth in delivery transactions across the region.
+* **95% Customer Satisfaction:** Target achieved through enhanced communication and professional etiquette training.
+* **3% Monthly Growth:** Sustained expansion via organic referral programs and loyalty initiatives.
+
 ---
 
+## 🛠️ The Strategy Framework
+The playbook balances **Premium Experience** with **Scalable Operations** to ensure consistent brand excellence
+
+### 1. Standardized Engagement
+* **Professional Protocols:** Implementation of call scripts, message templates, and lead generation protocols to ensure consistency.
+* **Elite Training:** Equipping shoppers with sales mastery, merchandise knowledge, and visual presentation skills (photography/video).
+
+### 2. Personalized Value Propositions
+* **Target Segments:** Strategies specifically tailored for nursing mothers, business purchasers, and VIP clients[cite: 10].
+* **Custom Offerings:** Product bundles and personalized styling consultations based on purchasing history[cite: 24, 48].
+
+### 3. Operational Excellence & Loyalty
+* **Incentivized Growth:** Using same-day delivery thresholds and bundled event packages for corporate gifts[cite: 25].
+* **Loyalty Loops:** Leveraging loyalty cards to encourage repeat purchases and organic referrals[cite: 32, 35].
+* **Efficient Logistics:** Balancing elegant packaging with data-driven inventory and delivery monitoring[cite: 47, 54, 55].
+## 📈 Strategic Operations & Frameworks
+
+### 📑 Standardized Cost-Saving Framework
+* **Scalability:** Engineered a framework that achieved a **25% cost reduction** and successfully implemented it across **70+ branches**.
+* **Standardization:** Developed comprehensive SOPs and compliance documentation to ensure operational consistency.
+
+### ⛈️ Business Continuity & Crisis Management
+* **Resilience:** Led recovery efforts following Typhoon Tino, achieving full operational status for retail locations within a **10-day deadline**.
+* **Execution:** Demonstrated high-level project management and stakeholder communication under extreme pressure.
+
+---
 ## 📂 Featured Case Studies (Instructional Design)
 
 ### 📋[New Hire Onboarding Instructions](./Onboarding_Deck_New_Hire_Instructions.pdf)
@@ -21,46 +58,6 @@ Strategic and results-driven Senior Leader with over 14 years of experience span
 ### 🎓 National Teacher Training (Private Education Assistance Committee)
 * **The Scope:** Developed and delivered regional professional development modules for **600+ teachers** across the Philippines.
 * **Focus:** Instructional excellence and research-based methodologies aligned with national curriculum standards.
-
----
-# 🛍️ Premium Personal Shopper Playbook: VIP & B2B Strategy
-**Focus:** driving growth through standardized engagement and premium brand experiences.
-
----
-
-## 📈 Executive Impact
-This playbook outlines the strategic framework used to scale retail operations and maximize high-value customer segments.
-
-* [cite_start]**165% Sales Increase:** Achieved the highest growth in delivery transactions across the region.
-* [cite_start]**95% Customer Satisfaction:** Target achieved through enhanced communication and professional etiquette training[cite: 72, 94].
-* [cite_start]**3% Monthly Growth:** Sustained expansion via organic referral programs and loyalty initiatives[cite: 93].
-
----
-
-## 🛠️ The Strategy Framework
-[cite_start]The playbook balances **Premium Experience** with **Scalable Operations** to ensure consistent brand excellence[cite: 38, 45, 60].
-
-### 1. Standardized Engagement
-* [cite_start]**Professional Protocols:** Implementation of call scripts, message templates, and lead generation protocols to ensure consistency[cite: 23, 68].
-* [cite_start]**Elite Training:** Equipping shoppers with sales mastery, merchandise knowledge, and visual presentation skills (photography/video)[cite: 33, 74].
-
-### 2. Personalized Value Propositions
-* [cite_start]**Target Segments:** Strategies specifically tailored for nursing mothers, business purchasers, and VIP clients[cite: 10].
-* [cite_start]**Custom Offerings:** Product bundles and personalized styling consultations based on purchasing history[cite: 24, 48].
-
-### 3. Operational Excellence & Loyalty
-* [cite_start]**Incentivized Growth:** Using same-day delivery thresholds and bundled event packages for corporate gifts[cite: 25].
-* [cite_start]**Loyalty Loops:** Leveraging loyalty cards to encourage repeat purchases and organic referrals[cite: 32, 35].
-* [cite_start]**Efficient Logistics:** Balancing elegant packaging with data-driven inventory and delivery monitoring[cite: 47, 54, 55].
-## 📈 Strategic Operations & Frameworks
-
-### 📑 Standardized Cost-Saving Framework
-* **Scalability:** Engineered a framework that achieved a **25% cost reduction** and successfully implemented it across **70+ branches**.
-* **Standardization:** Developed comprehensive SOPs and compliance documentation to ensure operational consistency.
-
-### ⛈️ Business Continuity & Crisis Management
-* **Resilience:** Led recovery efforts following Typhoon Tino, achieving full operational status for retail locations within a **10-day deadline**.
-* **Execution:** Demonstrated high-level project management and stakeholder communication under extreme pressure.
 
 ---
 
