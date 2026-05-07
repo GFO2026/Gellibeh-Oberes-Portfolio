@@ -1,10 +1,11 @@
 # Gellibeh Oberes, LPT, MBA
+### *Project Management | Training Development SME*
 ### *Bridging Operational Excellence and Human-Centered Instructional Design*
 
 ---
 
 ## 💡 Professional Identity
-Strategic and results-driven Senior Leader with over 14 years of experience spanning retail operations, training development, and academic leadership. I specialize in designing high-impact learning experiences that align human-centered design with measurable business outcomes. My background as a Master of Business Administration (MBA) and a Licensed Professional Teacher (LPT) allows me to approach course building with both pedagogical rigor and a results-oriented business mindset. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.
+Strategic and results-driven Senior Leader with over 12 years of experience spanning retail operations, training development, and academic leadership. I specialize in designing high-impact learning experiences that align human-centered design with measurable business outcomes. My background as a Master of Business Administration (MBA) and a Licensed Professional Teacher (LPT) allows me to approach course building with both pedagogical rigor and a results-oriented business mindset. My approach combines rigorous research-driven methodologies with cutting-edge Generative AI tools to improve content quality and production efficiency. Integrating AI and pedagogy discipline as I am designing complex test prep materials, managing distributed teams of contributors, or optimizing content workflows, my goal is always to deliver clarity, consistency, and measurable learner outcomes.
 
 # 🛍️ [Premium Personal Shopper Playbook: VIP & B2B Strategy](./Premium_Personal_Shopper_Playbook.pdf)
 **Focus:** Driving growth through standardized engagement and premium brand experiences.
@@ -150,5 +151,5 @@ My work is guided by **learner-centered design principles**, incorporating eleme
 
 ---
 > [!IMPORTANT]
-> **📌 Note:** All materials in this portfolio are original or recreated samples designed to demonstrate my skills while maintaining the confidentiality of previous employers.
+> **📌 Note:** Materials are original works developed to demonstrate professional competencies while maintaining employer confidentiality.
 ---
