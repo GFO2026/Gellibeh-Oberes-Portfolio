@@ -2,6 +2,7 @@
 ### *Project Management | Training Development SME*
 ### *Bridging Operational Excellence and Human-Centered Instructional Design*
 
+🌐 Live Portfolio: https://gfo2026.github.io/Gellibeh-Oberes-Portfolio/
 ---
 
 ## 💡 Professional Identity
